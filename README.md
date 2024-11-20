@@ -14,5 +14,5 @@ Explanation of the uploaded files:
 - main_file.cpp - this is the main file
 - pythonFile.py - Python file that creates a test data sequence, saves data sequence, and opens and plots the filtered data sequence.
 
-[filtered data](https://github.com/AleksandarHaber/Finite-Impulse-Response-Implementation-in-Cpp/blob/main/output_input.png)
+![filtered data](https://github.com/AleksandarHaber/Finite-Impulse-Response-Implementation-in-Cpp/blob/main/output_input.png)
 
